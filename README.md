@@ -3,7 +3,11 @@ The aim of this project was to create a game called Up Up Go with FPGA board (BA
 
 
 
-
+<p align="center">
+  <a href="https://youtu.be/-uRSIqbaT5I">
+    <img src="https://img.youtube.com/vi/-uRSIqbaT5I/0.jpg" alt="Thumbnail">
+  </a>
+</p>
 
 [![Thumbnail](https://img.youtube.com/vi/-uRSIqbaT5I/0.jpg)](https://youtu.be/-uRSIqbaT5I)
 
