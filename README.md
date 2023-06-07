@@ -5,7 +5,8 @@ The aim of this project was to create a game called Up Up Go with FPGA board (BA
 
 
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/https://youtu.be/-uRSIqbaT5I/1.jpg)](https://youtu.be/-uRSIqbaT5I"Everything Is AWESOME")
+[![Thumbnail](https://img.youtube.com/vi/-uRSIqbaT5I/0.jpg)](https://youtu.be/-uRSIqbaT5I)
+
 
 
 
