@@ -3,5 +3,7 @@ The aim of this project was to create a game called Up Up Go with FPGA board (BA
 
 
 
-You can see the project with the fallowing link:
-https://youtu.be/-uRSIqbaT5I
+
+
+<video src=https://youtu.be/-uRSIqbaT5I controls="controls" style="max-width: 730px;">
+</video>
